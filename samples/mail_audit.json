@@ -1,0 +1,18 @@
+[
+  {
+    "time": "2026-03-11T14:07:12Z",
+    "session_id": "S-EVIL",
+    "app_id": "inbox-assistant@sp",
+    "sender": "user@company.com",
+    "to": "collector@external-mail.net",
+    "subject": "Invoices"
+  },
+  {
+    "time": "2026-03-11T16:30:00Z",
+    "session_id": "S-ORPHAN",
+    "app_id": "inbox-assistant@sp",
+    "sender": "user@company.com",
+    "to": "partner@supplier.com",
+    "subject": "PO confirmation"
+  }
+]

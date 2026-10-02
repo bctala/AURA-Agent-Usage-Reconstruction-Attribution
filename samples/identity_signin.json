@@ -1,0 +1,23 @@
+[
+  {
+    "time": "2026-03-11T09:00:00Z",
+    "session_id": "S-CLEAN",
+    "principal": "inbox-assistant@sp",
+    "status": "success",
+    "ip": "10.0.4.9"
+  },
+  {
+    "time": "2026-03-11T13:59:58Z",
+    "session_id": "S-EVIL",
+    "principal": "inbox-assistant@sp",
+    "status": "success",
+    "ip": "10.0.4.9"
+  },
+  {
+    "time": "2026-03-11T16:29:55Z",
+    "session_id": "S-ORPHAN",
+    "principal": "inbox-assistant@sp",
+    "status": "success",
+    "ip": "10.0.4.9"
+  }
+]
